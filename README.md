@@ -17,6 +17,7 @@ The project utilizes three datasets covering transactions from 2018 through 2019
 1. `sales_2018.csv` (2,586 records) – Order lines from 2018 detailing date, order ID, category, sub-category, product, quantity, sales, discount, and profit.
 2. `sales_2019.csv` (3,312 records) – Order lines from 2019 with identical structure.
 3. `customer_details.csv` (5,008 records) – Master record matching order IDs to customer names, cities, states, and regions.
+4. Source: course-provided retail sales dataset.
 
 ---
 
