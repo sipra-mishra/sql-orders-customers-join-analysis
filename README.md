@@ -35,6 +35,9 @@ The project utilizes three datasets covering transactions from 2018 through 2019
 - **Regional Disparities:** The **West** region generated the highest sales ($437.7K) and profit margin (**15.5%**), while the **Central** region had the weakest margin (**9.3%**).
 - **Unprofitable States:** Top loss-making states are led by **Texas** (-$17.5K total loss across 140 loss orders), **Pennsylvania** (-$12.5K), **Illinois** (-$12.0K), **Ohio** (-$11.5K), and **North Carolina** (-$6.7K).
 - **Year-over-Year Growth:** Total sales expanded **20.4%** from 2018 ($609.1K) to 2019 ($733.3K).
+- ![Top customers](screenshot/Q3.png)
+![Year-over-year growth](screenshot/Q5.png)
+![Loss-making states](screenshot/Q8.png)
 
 ---
 
