@@ -40,7 +40,7 @@ The project utilizes three datasets covering transactions from 2018 through 2019
 ## Suggestions from the Data
 - **Review Pricing & Costs:** Re-evaluate supplier costs and pricing models for **Tables**, **Supplies**, and **Bookcases** to recover margins.
 - **Regional Focus:** Investigate operational bottlenecks and discounting practices in the **Central** region and high-loss states (**Texas**, **Pennsylvania**, **Illinois**, **Ohio**).
-- **Expand High-Margin Categories:** Shift marketing focus toward growing **IT Products** and **Stationary & Supplies**.
+- **Expand High-Margin Categories:** Shift marketing focus toward growing **IT Products** and **Stationery & Supplies**.
 
 ---
 
@@ -62,19 +62,15 @@ The project utilizes three datasets covering transactions from 2018 through 2019
 ## Repository Structure
 ```text
 sql-orders-customers-join-analysis/
-│
 ├── data/
 │   ├── sales_2018.csv
 │   ├── sales_2019.csv
-│   └── customer_details.csv
-│
+│   └── customer_detail.csv
 ├── sql/
 │   ├── 01_setup_and_checks.sql
 │   └── 02_join_analysis.sql
-│
-├── screenshots/
-│   ├── Q3_top_customers.png
-│   ├── Q5_yoy_growth.png
-│   └── Q8_loss_making_states.png
-│
+├── screenshot/
+│   ├── Q3.png
+│   ├── Q5.png
+│   └── Q8.png
 └── README.md
