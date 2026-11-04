@@ -65,7 +65,7 @@ sql-orders-customers-join-analysis/
 ├── data/
 │   ├── sales_2018.csv
 │   ├── sales_2019.csv
-│   └── customer_detail.csv
+│   └── customer_details.csv
 ├── sql/
 │   ├── 01_setup_and_checks.sql
 │   └── 02_join_analysis.sql
